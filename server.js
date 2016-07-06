@@ -1,4 +1,7 @@
 /* NOTES
+* promising: 
+* https://github.com/svenhornberg/stackhorizionexpress
+*
 *
 *fix for the ws error and 400 bad request?
 *https://github.com/rethinkdb/horizon/issues/525#issuecomment-222103680
