@@ -1,7 +1,7 @@
 /* NOTES
 * promising: 
 * https://github.com/svenhornberg/stackhorizionexpress
-*
+*http://stackoverflow.com/questions/37469900/horizion-connect-to-an-existing-expressjs-app-results-in-400-bad-request
 *
 *fix for the ws error and 400 bad request?
 *https://github.com/rethinkdb/horizon/issues/525#issuecomment-222103680
